@@ -1,0 +1,9 @@
+ALADIM TINTAS — SITE ATUALIZADO
+
+Envie todos os arquivos desta pasta para a raiz do repositório ou publique o ZIP no Netlify. Não mova as imagens para uma pasta img.
+
+Para testar localmente, use um servidor HTTP (por exemplo, python -m http.server 8000) e acesse http://localhost:8000. Abrir diretamente o HTML como file:// pode impedir o carregamento dos arquivos JSON.
+
+O orçamento é enviado ao WhatsApp (41) 98529-5385. O contato geral permanece (41) 98498-3951.
+
+O catálogo contém 68 amostras texturizadas extraídas das duas imagens fornecidas, com os códigos e nomes transcritos. As amostras são demonstrativas. As fotos de aplicação de revestimentos não estavam no ZIP original: as imagens de textura da página Revestimentos são ilustrativas, identificadas como tal.

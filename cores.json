@@ -1,0 +1,410 @@
+[
+  {
+    "codigo": 1600,
+    "nome": "Branco",
+    "imagem": "cor-1600.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1601,
+    "nome": "Branco Gelo",
+    "imagem": "cor-1601.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1602,
+    "nome": "Bege",
+    "imagem": "cor-1602.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1603,
+    "nome": "Areia",
+    "imagem": "cor-1603.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1604,
+    "nome": "Creme suave",
+    "imagem": "cor-1604.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1605,
+    "nome": "Marfim",
+    "imagem": "cor-1605.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1606,
+    "nome": "Cromo",
+    "imagem": "cor-1606.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1607,
+    "nome": "Trigo",
+    "imagem": "cor-1607.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1608,
+    "nome": "Leite Condensado",
+    "imagem": "cor-1608.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1609,
+    "nome": "Mel",
+    "imagem": "cor-1609.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1610,
+    "nome": "Areia do deserto",
+    "imagem": "cor-1610.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1611,
+    "nome": "Damasco",
+    "imagem": "cor-1611.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1612,
+    "nome": "Bronze",
+    "imagem": "cor-1612.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1613,
+    "nome": "Amêndoa",
+    "imagem": "cor-1613.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1614,
+    "nome": "Grafite Claro",
+    "imagem": "cor-1614.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1615,
+    "nome": "Platina",
+    "imagem": "cor-1615.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1616,
+    "nome": "Castanho",
+    "imagem": "cor-1616.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1617,
+    "nome": "Camuça",
+    "imagem": "cor-1617.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1618,
+    "nome": "Licor de Chocolate",
+    "imagem": "cor-1618.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1619,
+    "nome": "Tabaco",
+    "imagem": "cor-1619.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1620,
+    "nome": "Salmão",
+    "imagem": "cor-1620.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1621,
+    "nome": "Pêssego",
+    "imagem": "cor-1621.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1622,
+    "nome": "Laranja",
+    "imagem": "cor-1622.webp",
+    "sol": true
+  },
+  {
+    "codigo": 1623,
+    "nome": "Tangerina",
+    "imagem": "cor-1623.webp",
+    "sol": true
+  },
+  {
+    "codigo": 1624,
+    "nome": "Ypê Amarelo",
+    "imagem": "cor-1624.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1625,
+    "nome": "Canário da Terra",
+    "imagem": "cor-1625.webp",
+    "sol": true
+  },
+  {
+    "codigo": 1626,
+    "nome": "Amarelo Ouro",
+    "imagem": "cor-1626.webp",
+    "sol": true
+  },
+  {
+    "codigo": 1627,
+    "nome": "Vanilla",
+    "imagem": "cor-1627.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1628,
+    "nome": "Erva Doce",
+    "imagem": "cor-1628.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1629,
+    "nome": "Palmares",
+    "imagem": "cor-1629.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1630,
+    "nome": "Kiwi",
+    "imagem": "cor-1630.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1631,
+    "nome": "Pêra",
+    "imagem": "cor-1631.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1632,
+    "nome": "Verde Limão",
+    "imagem": "cor-1632.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1633,
+    "nome": "Amazônia",
+    "imagem": "cor-1633.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1634,
+    "nome": "Bandeira",
+    "imagem": "cor-1634.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1635,
+    "nome": "Mediterrâneo",
+    "imagem": "cor-1635.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1636,
+    "nome": "Azeitona",
+    "imagem": "cor-1636.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1637,
+    "nome": "Oliveira",
+    "imagem": "cor-1637.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1638,
+    "nome": "Verde Cana",
+    "imagem": "cor-1638.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1639,
+    "nome": "Verde Musgo",
+    "imagem": "cor-1639.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1641,
+    "nome": "Alecrim",
+    "imagem": "cor-1641.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1642,
+    "nome": "Concreto",
+    "imagem": "cor-1642.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1643,
+    "nome": "Caribe",
+    "imagem": "cor-1643.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1644,
+    "nome": "Tropical",
+    "imagem": "cor-1644.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1645,
+    "nome": "Aquamarina",
+    "imagem": "cor-1645.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1646,
+    "nome": "Turquesa",
+    "imagem": "cor-1646.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1647,
+    "nome": "Oceanic",
+    "imagem": "cor-1647.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1648,
+    "nome": "Laguna",
+    "imagem": "cor-1648.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1649,
+    "nome": "Azul Mar",
+    "imagem": "cor-1649.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1650,
+    "nome": "Porcelana",
+    "imagem": "cor-1650.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1651,
+    "nome": "Celeste",
+    "imagem": "cor-1651.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1652,
+    "nome": "Índico",
+    "imagem": "cor-1652.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1653,
+    "nome": "Vermelho Ferrari",
+    "imagem": "cor-1653.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1654,
+    "nome": "Cereja",
+    "imagem": "cor-1654.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1655,
+    "nome": "Terracota suave",
+    "imagem": "cor-1655.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1656,
+    "nome": "Bordô",
+    "imagem": "cor-1656.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1657,
+    "nome": "Orquídea",
+    "imagem": "cor-1657.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1658,
+    "nome": "Alfazema",
+    "imagem": "cor-1658.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1659,
+    "nome": "Creme de uva",
+    "imagem": "cor-1659.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1660,
+    "nome": "Uva",
+    "imagem": "cor-1660.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1661,
+    "nome": "Rosa Bebê",
+    "imagem": "cor-1661.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1662,
+    "nome": "Iogurte de Morango",
+    "imagem": "cor-1662.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1663,
+    "nome": "Garden",
+    "imagem": "cor-1663.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1664,
+    "nome": "Ipê",
+    "imagem": "cor-1664.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1665,
+    "nome": "Cidra",
+    "imagem": "cor-1665.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1666,
+    "nome": "Rosa Pétala",
+    "imagem": "cor-1666.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1667,
+    "nome": "Rosa Boneca",
+    "imagem": "cor-1667.webp",
+    "sol": false
+  },
+  {
+    "codigo": 1668,
+    "nome": "Rosa Envelhecido",
+    "imagem": "cor-1668.webp",
+    "sol": false
+  }
+]
