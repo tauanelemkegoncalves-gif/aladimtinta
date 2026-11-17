@@ -7,3 +7,5 @@ Para testar localmente, use um servidor HTTP (por exemplo, python -m http.server
 O orçamento é enviado ao WhatsApp (41) 98529-5385. O contato geral permanece (41) 98498-3951.
 
 O catálogo contém 68 amostras texturizadas extraídas das duas imagens fornecidas, com os códigos e nomes transcritos. As amostras são demonstrativas. As fotos de aplicação de revestimentos não estavam no ZIP original: as imagens de textura da página Revestimentos são ilustrativas, identificadas como tal.
+
+Atualização: Cimento Queimado movido para Revestimentos (2 imagens). Textura Acrílica, Grafiato e Textura Projetada com 1 imagem cada e informações técnicas. Massa Corrida permanece sem informações técnicas extras. Número antigo da Aladim removido; WhatsApp Aladim/orçamentos (41) 98529-5385.
